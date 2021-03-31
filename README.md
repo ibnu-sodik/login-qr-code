@@ -1,2 +1,2 @@
 # login-qr-code
-Mmebuat qr code dan login qr code
+Membuat qr code dan login qr code
